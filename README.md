@@ -1,28 +1,102 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samuel+Ogada;Software+Developer;Python+Developer;Exploring+Artificial+Intelligence;Welcome+to+my+GitHub!" /> </p>
+<div align="center">
 
-<h1 align="center">👋 Hi there, I'm Samuel Ogada</h1>
+# 👋 Hi, I'm Samuel Ogada
 
-<h3 align="center"> Software Developer | Problem Solver | Lifelong Learner </h3>
+### SOFTWARE DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST
 
-<p align="center"> Passionate about coding, building useful applications, and exploring technology. </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Writing+Code+That+Solves+Problems;Exploring+Artificial+Intelligence;Learning+Today%2C+Building+Tomorrow" />
 
-👨‍💻 About Me
+<p>
+  <img src="https://komarev.com/ghpvc/?username=samuelogada20-web&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</p>
 
-I am a passionate Software Developer, Problem Solver, and lifelong learner who loves coding and building useful applications.
+</div>
 
-🛠️ Tech Stack & Skills
-Languages: JavaScript, Python, HTML5, CSS3
-Tools: Git, GitHub, VS Code
-🔭 What I'm Working On
-🎯 Solving Data Structures and Algorithms (DSA) problems.
-💻 Developing web applications and refining my programming fundamentals.
-🤖 Exploring Artificial Intelligence and Machine Learning.
-📊 GitHub Statistics
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelogada20-web&show_icons=true&theme=chartreuse-dark" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelogada20-web&theme=chartreuse-dark" height="165" /> </p>
+## 🧑‍💻 ABOUT ME
 
-🤝 Let's Connect!
-📧 Email: samuelogada20@gmail.com
-🆔 ORCID: https://orcid.org/0009-0001-5741-1586
+I'm Samuel Ogada, a passionate software developer who enjoys solving problems, learning new technologies, and building useful applications.
 
-<p align="center"> <b>Thanks for visiting my GitHub profile! ⭐</b> </p>
+- 💻 Interested in software engineering and application development.
+- 🧠 Developing my problem-solving and programming skills.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Interested in building technology that makes a difference.
+- 📚 Always learning, experimenting, and improving.
+
+---
+
+## ⚡ TECH STACK & TECHNOLOGIES
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,go,js,html,css" />
+
+### Tools & Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 🚀 WHAT I'M CURRENTLY WORKING ON
+
+- 🔭 Improving my software development fundamentals.
+- 🐍 Building applications with Python.
+- 🐹 Learning and developing projects with Go.
+- 🌐 Exploring modern web development.
+- 🧩 Practising Data Structures and Algorithms.
+- 🤖 Exploring AI and Machine Learning.
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelogada20-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelogada20-web&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelogada20-web&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 MY DEVELOPMENT MINDSET
+
+> "Great software is built through curiosity, consistency, creativity, and the courage to solve difficult problems."
+
+I believe in learning by building, understanding the logic behind code, and continuously improving my engineering skills.
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="mailto:samuelogada20@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://orcid.org/0009-0001-5741-1586">
+<img src="https://img.shields.io/badge/ORCID-Connect-green?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ THANKS FOR VISITING MY PROFILE!
+
+**Building. Learning. Innovating.**
+
+⭐ Feel free to explore my repositories and follow my journey.
+
+</div>
