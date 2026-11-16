@@ -1,75 +1,81 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Animated coding character">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation">
 
-# 👋 HI, I'M SAMUEL OGADA
+# ⚡ SAMUEL OGADA
 
-### `SOFTWARE DEVELOPER` • `PROBLEM SOLVER` • `TECH ENTHUSIAST`
+### `SOFTWARE DEVELOPER` | `PYTHON & GO` | `AI ENTHUSIAST`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+World;Building+Ideas+Into+Reality;Python+%7C+Go+Developer;Exploring+Artificial+Intelligence;Turning+Problems+Into+Solutions;Learning+Today%2C+Building+Tomorrow" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=INITIALIZING+DEVELOPER+PROFILE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;I+BUILD.+I+LEARN.+I+INNOVATE.;PYTHON+%7C+GO+%7C+ARTIFICIAL+INTELLIGENCE;TURNING+IDEAS+INTO+REALITY." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=samuelogada20-web&label=PROFILE+VISITORS&color=00F7FF&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/samuelogada20-web?label=FOLLOWERS&style=for-the-badge&color=7B2FFF&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=samuelogada20-web&label=SYSTEM+VISITORS&color=00F7FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/samuelogada20-web?label=NETWORK&style=for-the-badge&color=7B2FFF&logo=github" />
 
 <br><br>
 
 <a href="https://github.com/samuelogada20-web">
-<img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 <a href="mailto:samuelogada20@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT%20ME-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">🌌 ABOUT MY DIGITAL JOURNEY</h2>
+## 🧬 01. DEVELOPER IDENTITY
 
-I'm **Samuel Ogada**, a passionate software developer interested in building meaningful technology, solving problems, and exploring the possibilities of Artificial Intelligence.
+```yaml
+Name: Samuel Ogada
+Role: Software Developer
+Primary Languages:
+  - Python
+  - Go
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Engineering
+  - Problem Solving
+Current Status: Learning, Building & Evolving
+Mission: Turning Ideas Into Technology
+```
 
-I believe technology is more than writing code. It's about turning ideas into solutions that make life better.
+I am passionate about technology, software development, and creating solutions through code.
 
-- 💻 Interested in Software Engineering.
-- 🐍 Developing applications with Python.
-- 🐹 Learning and building with Go.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🧠 Improving my problem-solving abilities.
-- 🚀 Building projects and exploring new technologies.
-- 📚 Learning
-<br>
+I believe every developer starts somewhere. My goal is to keep learning, build meaningful projects, and become an engineer who understands not just how code works, but why it works.
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelogada20-web&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelogada20-web&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## ⚡ 02. TECHNOLOGY SYSTEM
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samuelogada20-web&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<br>
+### PROGRAMMING LANGUAGES
 
-<h2 align="center">🌌 MY 3D CONTRIBUTION GRAPH</h2>
+<img src="https://skillicons.dev/icons?i=python,go,js,html,css&theme=dark" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelogada20-web/samuelogada20-web/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
+### TOOLS & ENVIRONMENT
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
-<h2 align="center">🐍 WATCH MY CONTRIBUTIONS</h2>
+### AREAS OF EXPLORATION
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelogada20-web/samuelogada20-web/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00F7FF?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7B2FFF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<p align="center">
-  <b>Thanks for visiting my profile! Keep building. 🚀</b>
-</p>
+</div>
+
+---
+
+## 🎯 03. CURRENT OPERATIONS
+
+| Mission | Status |
+|---|---|
+| 🐍 Python Development | Learning & Building |
+| 🐹 Go Programming | Improving |
+| 🤖 Artificial Intelligence |
