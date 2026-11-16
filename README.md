@@ -41,3 +41,35 @@ I believe technology is more than writing code. It's about turning ideas into so
 - 🧠 Improving my problem-solving abilities.
 - 🚀 Building projects and exploring new technologies.
 - 📚 Learning
+<br>
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelogada20-web&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelogada20-web&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samuelogada20-web&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<h2 align="center">🌌 MY 3D CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuelogada20-web/samuelogada20-web/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+<br>
+
+<h2 align="center">🐍 WATCH MY CONTRIBUTIONS</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuelogada20-web/samuelogada20-web/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Keep building. 🚀</b>
+</p>
